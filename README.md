@@ -1,2 +1,3 @@
 # job_scrape
-This is my first project where I web scrape job boards and draw insights about the specific career.
+A project where I web scrape indeed.com to transform the information about jobs into a dataset, and query about skills mostly needed for the profession and visualize the companies in the location within San Diego.
+
